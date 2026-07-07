@@ -1,2 +1,2 @@
 # FlyRankAI-Internship-
-public respository for my whole track at flyrank ai internship 
+public respository for my whole ML track at flyrank ai internship 
